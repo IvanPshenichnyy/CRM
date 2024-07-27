@@ -1,0 +1,30 @@
+Строки:
+    Регион: Region
+    Регионы: Regions
+    Направление: Line of business
+    Направления: Lines of business
+    ДобавитьНаправление: Add line of business
+    Валюта: Currency
+    Валюты: Currencies
+    Наименование: Name
+    Код: Code
+    ДатаКурса: Rate date
+    Курс: Rate
+    Кратность: Multiplicity 
+    КурсыВалют: Currency rates
+    Период: Period
+    ЗагрузкаКурсовВалют: Download currency rates
+    ЗагрузитьКурсыВалют: Download currency rates
+    ЗагружатьКурсыАвтоматически: Download currency rates automatically
+    ПериодЗагрузки: Download period
+    Загрузить: Download
+    КурсыВалютЗагружены: Currency rates are loaded
+    ОбязательноеПоле: Required field
+    НеУказаныНаправления: Lines of business not specified
+    Уведомления: Notifications
+    Добавить: Add
+    Удалить: Delete
+    Поиск: Search
+    Найти: Search
+    СтрокаПоиска: Search request 
+    РезультатыПоиска: Search results

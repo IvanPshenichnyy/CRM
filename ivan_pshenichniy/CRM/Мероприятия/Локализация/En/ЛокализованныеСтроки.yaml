@@ -1,0 +1,62 @@
+Строки:
+    Мероприятия: Activities
+    Задачи: Tasks
+    События: Events
+    Задача: Task
+    ДобавитьЗадачу: Add task
+    МоиЗадачи: My tasks
+    Событие: Event
+    ДатаСоздания: Creation date
+    ДатаНачала: Start date
+    ДатаЗавершения: Due date
+    Описание: Description
+    Ответственный: Assigned to
+    Статус: Status
+    Код: Code
+    Наименование: Name
+    ВЗавершенные: To completed
+    Участники: Participants
+    Участник: Participant
+    ДобавитьУчастника: Add participant
+    УдалитьУчастника: Delete participant
+    ВыберитеУчастника: Select participant
+    НоваяЗадача: New task
+    НовоеСобытие: New event
+    ДобавлениеУчастника: Adding participant
+    Роль: Role
+    Добавить: Add
+    Сохранить: Save
+    Создать: Create
+    Удалить: Delete
+    Завершить: Complete
+    СозданиеЗадачи: Task creation
+    ЗавершениеЗадач: Tasks completion
+    ЗавершениеМероприятия: Activity completion
+    ЗадачиПомеченыКакЗавершенные: Selected tasks are marked as completed
+    СозданиеСобытия: Event creation
+    УдалениеМероприятия: Removing an activity
+    ДобавитьМероприятие: Add an activity
+    ДляСозданияМероприятийСохранитеСделку: Save the deal to create activities
+    ДляСозданияНажмитеДобавитьМероприятие: To create press Add an activity
+    ВсеМероприятия: All activities
+    Сегодня: Today
+    Запланировано: Is planned
+    ВПроцессе: In progress
+    Завершено: Completed
+    Отменено: Canceled
+    Организатор: Organizer
+    ПриглашенныйУчастник: Guest
+    НетМероприятийПоСделке: No deal activities
+    Приоритет: Priority
+    Низкий: Low
+    Обычный: Normal
+    Высокий: High
+    МоиЗадачиВФайл: My tasks to file
+    ВыгрузитьВФайл: Save to file
+    НетУчастниковСобытия: You have not added any participant yet...
+Шаблоны:
+    СозданаЗадача: "Task \"$0\" created"
+    СозданоСобытие: "Event \"$0\" created"
+    МероприятиеЗавершено: "Activity \"$0\" completed"
+    ПодтвеждениеУдаленияСобытия: "Are you sure you want to delete event \"$0\"?"
+    ПодтвеждениеУдаленияЗадачи: "Are you sure you want to delete task \"$0\"?"

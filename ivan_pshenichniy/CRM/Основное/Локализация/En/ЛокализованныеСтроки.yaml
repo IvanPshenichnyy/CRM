@@ -1,0 +1,26 @@
+Строки:
+    ЗаголовокСтраницыВхода: Demo 1C:Enterprise.Element
+    ПриветственныйТекстСтраницыВхода: If you don't have an account yet, click "Sign up"
+    Главная: Home
+    Настройки: Setup
+    ЗавершитьРаботу: Exit
+    Сотрудники: Employees
+    Сотрудник: Employee
+    Имя: Name
+    Пользователь: User
+    Роль: Role
+    Сохранить: Save
+    Создать: Create
+    Удалить: Delete
+    Добавить: Add
+    Менеджер: Manager
+    Руководитель: Supervisor
+    Администратор: Administrator
+    БотСистемыВзаимодействия: Collaboration system bot
+    СоздатьНовогоПользователя: Create new user
+    ЛогинНовогоПользователя: New user login
+    ВведитеЛогинНовогоПользователя: Enter new user login
+    Сервис: Service
+    КонсольЗапросов: Query console
+    Путеводитель: Guide
+    ПутеводительПоДемо: Demo guide

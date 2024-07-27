@@ -1,0 +1,68 @@
+Строки:
+    Пресейл: Presales
+    Сделки: Deals
+    Сделка: Deal
+    АктивныеСделки: Active deals
+    СоздатьСделку: Create deal
+    СозданиеСделки: Deal creation
+    Клиенты: Accounts
+    СоздатьКлиента: Create account
+    КонтактныеЛица: Contacts
+    Клиент: Account
+    КонтактноеЛицо: Contact
+    СоздатьКонтактноеЛицо: Create contact
+    СтадииСделок: Deal stages
+    СтадияСделки: Deal stage
+    Активна: Active
+    ЗакрытаВыиграна: Closed-won
+    ЗакрытаПроиграна: Closed-lost
+    НоваяСделка: New deal
+    НовыйКлиент: New account
+    НовоеКонтактноеЛицо: New contact
+    НоваяСтадияСделок: New stage of deal
+    Сделок: Deals
+    НезавершенныеЗадачи: Incomplete tasks
+    ДатаСоздания: Creation date
+    ДатаЗакрытия: Close date
+    Содержание: Subject
+    Ответственный: Owner
+    Стадия: Stage
+    Вид: Kind
+    Сумма: Amount
+    Договор: Contract
+    Код: Code
+    Порядок: Order
+    ВоронкаПродаж: Sales funnel
+    Имя: Name
+    Должность: Position
+    Телефон: Phone
+    ЭлектроннаяПочта: E-mail
+    Направления: Lines of business
+    Направление: Line of business
+    Наименование: Name
+    Адрес: Address
+    Мероприятия: Activities
+    Основное: Main
+    Фильтр: Filter
+    ПодсказкаПоляПоискаСделок: Code, subject or account
+    ПодсказкаПоляПоискаКлиента: Name or address
+    ПодсказкаПоляПоискаКонтактногоЛица: Name or position
+    ЗаголовокВыбораФайлаДоговора: Drop contract file or add it manually
+    ЗаголовокВыбораФайлаИконки: Drop icon file or add it manually
+    ПредполагаемаяИлиФактическая: Estimated or actual
+    Сохранить: Save
+    СохранитьИОткрыть: Save and open
+    Создать: Create
+    Удалить: Delete
+    Открыть: Open
+    Обновить: Refresh
+    Иконка: Icon
+    НеУказаныНаправления: Lines of business not specified
+    ОтчетОПродажах: Sales report
+    ПродажиПоНаправлениям: Line of business sales
+Шаблоны:
+    УведомлениеОСозданииСделки: "Deal \"$0\" has been created"
+    УведомлениеОСозданииКлиента: "Account \"$0\" has been created. You can open it for editing"
+    УведомлениеОСозданииКонтактногоЛица: "Contact \"$0\" has been created. You can open it for editing"
+    ПоказыватьЧислоСделок: "Show %0 deals"
+    ЧислоСделок: "%0 deals"
